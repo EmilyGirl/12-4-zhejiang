@@ -35,7 +35,7 @@ var menuh='<div class="navbar navbar-inverse">'+
 '                        <span class="icon-bar"></span>'+
 '                    </button>'+
 '                    <div class="navbar-brand" style="padding:0">'+
-'                        <img src="content/images/hc_logo.png" class="logo-box" alt="汇诚电力" />'+
+'                        <img src="content/images/hc_logo.jpg" class="logo-box" alt="汇诚电力" />'+
 '                        <div class="name-box">'+
 '                            <a href="index.html">浙江汇诚电力科技有限公司</a>'+
 '                            <p >Zhejiang Huicheng Electrical Power Technology</p>'+
