@@ -9,10 +9,10 @@ var honorModal = new Vue({
        url:"https://homework.mizholdings.com/kacha/xcx/page/1609032046187.jpg"
      },
      {
-      url:"https://homework.mizholdings.com/kacha/xcx/page/1609032096040.jpg",op:"rotate/90",
+      url:"https://homework.mizholdings.com/kacha/xcx/page/1609032096040.jpg",op:"/rotate/90",
     },
     {
-      url:"https://homework.mizholdings.com/kacha/xcx/page/1609032131381.jpg",op:"rotate/90"
+      url:"https://homework.mizholdings.com/kacha/xcx/page/1609032131381.jpg",op:"/rotate/90",
     }, {
       url:"https://homework.mizholdings.com/kacha/xcx/page/1609032175308.jpg",
     },
